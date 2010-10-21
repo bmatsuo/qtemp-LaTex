@@ -1,0 +1,19 @@
+qtemp-LaTex - A collection of LaTex templates for qtemp
+Written by Bryan Matsuo <bryan.matsuo@gmail.com>
+
+This is a collection of templates to easily generate empty LaTex documents,
+headers/footers, titles, and bibtex bibliography entries.
+
+To install these templates, place them in directory "~/.qtemp/templates/LaTex/".
+
+Then just use qtemp to generate templates.
+
+    qtemp tex -o new.tex
+
+And in vim, while editing 'new.tex'
+
+    V!qtemp tex-headfoot
+
+Now you have a header and footer.
+
+Tada!
