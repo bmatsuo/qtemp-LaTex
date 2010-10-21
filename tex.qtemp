@@ -1,0 +1,23 @@
+\documentclass[12pt]{article}
+
+\usepackage{fullpage,latexsym,amsthm,amsmath,algorithmic,graphicx,subfigure,color,verbatim,epsfig,fancyhdr}
+
+% Define new commands.
+
+\newcommand{\annotate}[1]{{\color{red}{#1}}}
+
+\newtheorem{defn}{Definition}[section]
+\newtheorem{lemma}{Lemma}[section]
+\newtheorem{corollary}{Corollary}[section]
+\newtheorem{question}{Question}[section]
+\newtheorem{proposition}{Proposition}[section]
+
+% Begin the actual document content here.
+
+\begin{document}
+
+% Add a bibliography.
+% \bibliographystyle{plain}
+% \bibliography{brlen}
+
+\end{document}

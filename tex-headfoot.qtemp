@@ -1,0 +1,15 @@
+% Setup document header/footer and adjust spacing accordingly.
+\pagestyle{fancy}
+\lhead{$FILE}
+\rhead{$A}
+\rfoot{\today}
+\renewcommand\headheight{15pt}
+\renewcommand\footrulewidth{0.4pt}
+
+\setlength{\parskip}{0pt}
+\setlength{\parsep}{0pt}
+\setlength{\headsep}{0pt}
+\setlength{\topskip}{15pt}
+\setlength{\topmargin}{0pt}
+\setlength{\topsep}{0pt}
+\setlength{\partopsep}{0pt}

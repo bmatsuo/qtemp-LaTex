@@ -1,0 +1,12 @@
+@BOOK{ $key,
+    author      = "",
+    title       = "",
+    editor      = "",
+    publisher   = "",
+    year        = "",
+    % volume      = "",
+    % series      = "",
+    % edition     = "",
+    % month       = "",
+    % note        = "",
+}
