@@ -17,3 +17,5 @@ And in vim, while editing 'new.tex'
 Now you have a header and footer.
 
 Tada!
+
+Learn more about qtemp at it's github page (http://github.com/bmatsuo/qtemp)
