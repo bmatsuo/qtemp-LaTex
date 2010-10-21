@@ -1,7 +1,7 @@
 % Setup document header/footer and adjust spacing accordingly.
 \pagestyle{fancy}
 \lhead{$FILE}
-\rhead{$A}
+\rhead{$AUTHOR}
 \rfoot{\today}
 \renewcommand\headheight{15pt}
 \renewcommand\footrulewidth{0.4pt}
