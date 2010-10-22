@@ -1,5 +1,5 @@
 % Make the document title.
-\title{Document Title}
+\title{$title}
 \author{$AUTHOR}
 \date{\today}
 \maketitle

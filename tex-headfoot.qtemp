@@ -1,6 +1,6 @@
 % Setup document header/footer and adjust spacing accordingly.
 \pagestyle{fancy}
-\lhead{$FILE}
+\lhead{$title}
 \rhead{$AUTHOR}
 \rfoot{\today}
 \renewcommand\headheight{15pt}
