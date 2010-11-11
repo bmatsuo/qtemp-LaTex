@@ -1,5 +1,4 @@
 @incollection { $key,
-    % original    = "",
     author      = "",
     title       = "",
     booktitle   = "",
@@ -12,4 +11,5 @@
     % editor      = "",
     % address     = "",
     % note        = "",
+    % original    = "",
 }

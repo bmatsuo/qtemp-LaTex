@@ -1,5 +1,4 @@
 @inproceedings{ $key,
-  % original      = "",
   author        = "",
   title         = "",
   booktitle     = "",
@@ -11,4 +10,5 @@
   % publisher     = "",
   % address       = "",
   % note          = "",
+  % original      = "",
 }

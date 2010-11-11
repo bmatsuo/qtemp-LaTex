@@ -1,5 +1,4 @@
 @article{ $key,
-  % original  = "*.pdf",
   author    = "",
   title     = "",
   journal   = "",
@@ -9,4 +8,5 @@
   % pages     = "",
   % month     = "",
   % note      = "",
+  % original  = "*.pdf",
 }
